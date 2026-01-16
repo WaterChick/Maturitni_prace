@@ -28,8 +28,8 @@ unsigned long time_now = 0;
 #include "index.h"
 
 //SSID, heslo
-const char* ssid = "Holeckovi";
-const char* password = "314159265";
+const char* ssid = "robotika";
+const char* password = "19BAVL79";
 
 String textosend_string;
 String textosendSpeed_string;
