@@ -25,6 +25,5 @@
 ### Standardní workflow
 
 1. **Nahrání do ESP8266**: Nastav switche pro "CH340 → ESP8266 (nahrávání)"
-2. **Po nahrání**: Přepni na "CH340 → ESP8266 (komunikace)" pro test
-3. **Nahrání do Mega**: Nastav switche pro "CH340 → Mega2560 (nahrávání)"
-4. **Běžný provoz**: Přepni na "Mega2560 + ESP8266 (běžný provoz)"
+2. **Nahrání do Mega**: Nastav switche pro "CH340 → Mega2560 (nahrávání)"
+3. **Běžný provoz**: Přepni na "Mega2560 + ESP8266 (běžný provoz)"
